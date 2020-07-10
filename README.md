@@ -13,3 +13,7 @@ SO THAT I can use it as a starting point for a new project
 
 Business Context
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
+
+
+# Googledocs document link
+https://docs.google.com/document/d/1Skq43UiDu3_hJxzVxXcRtw6oHBNwj0Hd_0UVwGGSh-0/edit?usp=sharing
